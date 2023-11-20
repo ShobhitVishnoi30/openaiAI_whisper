@@ -26,7 +26,6 @@ This project seamlessly integrates the Whisper ASR (Automatic Speech Recognition
 
 2. **Configuration:**
 
-   - Replace `YOUR_OPEN_AI_TOKEN` in the `useWhisper` hook with your actual OpenAI API key.
    - Set the API endpoint URL in the `fetch` call inside the `sendTranscript` function to `http://0.0.0.0:5001/transcribe`.
 
 3. **Run the Application:**
